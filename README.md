@@ -29,7 +29,7 @@ Please use Postman to explore the API in greater depth.
  - `posted` is a `string` representing the date the article was posted
  - `url` is `string` linking to the real article on [news.wisc.edu](https://news.wisc.edu/)
 
- The `img` may be appended to `https://git.doit.wisc.edu/cdis/cs/courses/cs571/f26/hws-apis/hw8-api-static-content/-/raw/main/` to get the requested image, e.g. the image `exchange.jpg` is hosted at `https://git.doit.wisc.edu/cdis/cs/courses/cs571/f26/hws-apis/hw8-api-static-content/-/raw/main/rovers.jpg`
+ The `img` may be appended to `https://cs571api.cs.wisc.edu/v2/rest/f26/static/hw8/` to get the requested image, e.g. the image `brewers.jpg` is hosted at `https://cs571api.cs.wisc.edu/v2/rest/f26/static/hw8/brewers.jpg`
 
  Please note that, while the news articles on [news.wisc.edu](https://news.wisc.edu/) have pictures embedded within the article, our API does not have these. Therefore, there may be some text that feels "out of place".
 
