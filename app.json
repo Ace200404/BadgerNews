@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hw8",
-    "slug": "hw8",
+    "name": "Badger News",
+    "slug": "badger-news",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
